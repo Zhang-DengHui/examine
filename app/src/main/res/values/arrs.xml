@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="test">
+        <attr name="text" format="string" />
+        <attr name="textcoler" format="string" />
+        <attr name="textsize" format="integer" />
+    </declare-styleable>
+
+</resources>
